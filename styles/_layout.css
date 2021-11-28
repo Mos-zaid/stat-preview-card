@@ -1,0 +1,25 @@
+.main-div__2-column{
+    width: 85vw;
+    margin: 5rem auto;
+    display: grid;
+    // grid-template-columns: 1fr 1fr;
+    border: 2px var(--desaturated-blue) solid;
+    background-color: var(--desaturated-blue);
+    border-radius: 10px;
+}
+
+.main-div__2-column img{
+    max-width: 84.1vw;
+    border-radius: 10px 10px 0 0;
+    margin-bottom: 1.7rem;
+}
+
+.main-div__2nd-column{
+    width: 85%;
+    margin: 0 auto;
+}
+
+.insights-div__3-column{
+    margin: 2.2rem auto;
+    display: grid;
+}

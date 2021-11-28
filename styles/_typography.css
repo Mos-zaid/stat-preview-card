@@ -1,0 +1,30 @@
+body{
+    font-size: 0.9375rem;
+    color: var(--slightly-transparent-white);
+    font-family: 'Inter', sans-serif;
+}
+
+.main-div__2nd-column{
+    text-align: center;
+    font-weight: 400;
+}
+
+.main-div__2nd-column h1{
+    color: var(--neutral-white);
+    font-size: 1.8rem;
+    margin: 0;
+    margin-top: 15px;
+}
+
+.main-div__2nd-column h1 span{
+    color: var(--soft-violet);
+}
+
+.insight-stats-header{
+    color: var(--neutral-white);
+    font-size: 1.3rem;
+    font-weight: 700;
+    display: block;
+    margin-bottom: 5px;
+}
+// font-size: 0.9375rem;
