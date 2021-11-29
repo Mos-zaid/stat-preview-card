@@ -8,10 +8,18 @@
     border-radius: 10px;
 }
 
-.main-div__2-column img{
+.main-div__1st-column{
+    background-color: var(--soft-violet);
+    border-radius: 10px 10px 0 0;
+    display: inline; 
+}
+
+.main-div__1st-column img{
+    opacity: 0.5;
     max-width: 100%;
     border-radius: 10px 10px 0 0;
-    margin-bottom: 1.7rem;
+    display: block; 
+
 }
 
 .main-div__2nd-column{
@@ -33,17 +41,20 @@
         place-items: center;
     }
 
-    .main-div__2-column img{
+    .main-div__1st-column img{
         max-width: 100%;
         border-radius: 0 10px 10px 0;
         margin-bottom: 0; 
         padding-bottom: 0; 
+        display: block; 
     }
 
     .main-div__1st-column{
-        display: inline; 
+        // display: inline; 
         margin: 0;
         padding: 0; 
+        border-radius: 0 10px 10px 0;
+
         // border: 2px red solid;
     }
 
