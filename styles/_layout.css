@@ -1,6 +1,6 @@
 .main-div__2-column{
     width: 85vw;
-    margin: 5rem auto;
+    margin: 11.2rem auto;
     display: grid;
     grid-template-columns: 1fr;
     border: 2px var(--desaturated-blue) solid;
@@ -15,7 +15,7 @@
 }
 
 .main-div__1st-column img{
-    opacity: 0.5;
+    opacity: 0.68;
     max-width: 100%;
     border-radius: 10px 10px 0 0;
     display: block; 
@@ -36,6 +36,7 @@
 
 @media (min-width: 768px) {
     .main-div__2-column{
+        width: 80vw;
         grid-template-columns: 1fr 1fr;
         height: auto;
         place-items: center;
@@ -74,3 +75,4 @@
     }
     
 }
+
