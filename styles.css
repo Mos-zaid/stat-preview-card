@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Lexend+Deca&display=swap');
 
-// Variables
-// @import url(./styles/_variables.css);
+/* Variables */ 
 :root{
     --dark-blue: hsl(233, 47%, 7%);
     --desaturated-blue: hsl(244, 38%, 16%);
@@ -11,10 +10,7 @@
     --very-slightly-transparent-white: hsla(0, 0%, 100%, 0.6);
 }
 
-
-// General Styles
-// @import url(./styles/_general.css);
-
+/* general style */ 
 body{
     background-color: var(--dark-blue);
     margin: 0;
@@ -25,9 +21,7 @@ body{
     box-sizing: border-box;
 }
 
-// Typography
-// @import url(./styles/_typography.css);
-
+/* Typography */ 
 body{
     font-size: 0.9375rem;
     color: var(--slightly-transparent-white);
@@ -82,9 +76,7 @@ body{
 
 }
 
-// Layout
-// @import url(./styles/_layout.css);
-
+/* Layouts */ 
 .main-div__2-column{
     width: 85vw;
     margin: 5rem auto;
