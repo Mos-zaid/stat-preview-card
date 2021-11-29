@@ -26,6 +26,7 @@ body{
     font-size: 0.9375rem;
     color: var(--slightly-transparent-white);
     font-family: 'Inter', sans-serif;
+    line-height: 1.5;
 }
 
 .main-div__2nd-column{
