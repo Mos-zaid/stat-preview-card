@@ -140,9 +140,10 @@ body{
     }
 
     .main-div__2nd-column{
-        width: 75%;
+        width: 78%;
         grid-column: 1;
         grid-row: 1;
+        padding-left: 15px;
     }
 
 
