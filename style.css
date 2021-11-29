@@ -79,7 +79,7 @@ body{
 /* Layouts */ 
 .main-div__2-column{
     width: 85vw;
-    margin: 5rem auto;
+    margin: 11.2rem auto;
     display: grid;
     grid-template-columns: 1fr;
     border: 2px var(--desaturated-blue) solid;
