@@ -13,7 +13,7 @@ This challenge was to build out this order summary card component and get it loo
 
 ### Links
 
-- Live Site URL: [See Finished Site](https://mos-zaid.github.io/Front-End-Master-1st/)
+- Live Site URL: [See Finished Site](https://mos-zaid.github.io/stat-preview-card/)
 
 ## My process
 
